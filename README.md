@@ -1,12 +1,13 @@
-<h1 align="center">Hi I am Ashish Raj</h1>
-<h3 align="center">
-📈 Data scientist with expertise in data wrangling, visualization, and building predictive models.<br>
+<h1 align="center">Hi, I am Ashish Raj</h1>
+
+<p align="center" style="font-size:10px; line-height:1.8;">
+📈Data scientist with expertise in data wrangling, visualization, and building predictive models.<br>
 🔍 Experienced in product research, usability testing, and translating findings into actionable insights.<br>
 🎨 Skilled in designing user-centric interfaces and workflows that align with business goals.<br>
 📊 Proficient in analytics and experimentation to evaluate product performance and guide decisions.<br>
 🧠 Strong at integrating data-driven insights with design thinking to create impactful solutions.<br>
 🚀 Passionate about delivering products that balance technical precision, usability, and scalability.
-</h3>
+</p>
 
 
 - 👨‍💻 All of my Design projects are available at [https://ashishraj.framer.website/](https://ashishraj.framer.website/)
